@@ -1,4 +1,7 @@
-## Hi there 👋
+## 👋 Hi there, I'm Shaikh Zahid
+
+- 👀 I’m interested in learning about exploring data and adding insights to it !!
+- 📫 How to reach me: shaikhmohdzahid007@gmail.com / https://www.linkedin.com/in/smz0/
 
 <!--
 **smz-github/smz-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
